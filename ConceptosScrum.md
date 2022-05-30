@@ -5,7 +5,7 @@
 
 **CUALES SON LOS ARTEFACTOS:** 
 •	Product Backlog 
-•	Lista de Pendientes del Sprint (Sprint Backlog
+•	Lista de Pendientes del Sprint (Sprint Backlog)
 •	Increment
 **CUALES SON SUS FUNCIONES**
 •	Product Backlog : 
