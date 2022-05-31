@@ -16,3 +16,20 @@ El Product Backlog lo podemos definir como una lista ordenada de todos los reque
 •	**Lista de Pendientes del Sprint (Sprint Backlog)**: El Sprint Backlog lo podemos definir como el conjunto de elementos de tu Product Backlog seleccionados para el Sprint, y así mismo poder entregar un plan para que puedas entregar un incremento dentro de tu proyecto y puedas alcanzar el Sprint Goal (es una meta establecida para el sprint). El Sprint Backlog es una predicción echa por el Development Team acerca de que funcionalidad formará parte para el próximo incremento y de tal manera ver que trabajo es necesario para entregar esa funcionabilidad en un Incremento “DONE”.
 
 •	**Increment:** El Increment es la suma de todos tus elementos del Product Backlog completados durante tus Sprint, en el cual te agregan un gran valor a tus incrementos de todos tu Sprint. No se debe considerar como un Increment a prototipos, módulos o submódulos ni a partes pendientes de pruebas. Ya que todos tus increment debe de estar en condiciones de utilizarse aun que el Product Owner decide o no liberarlo, por lo cual el Increment es un cuerpo de trabajo terminado que respalda el empirismo del Sprint.
+
+# Ceremonias
+#### Sprint Planning
+-  **Sprint Planning Meeting** (reunión de planificación del sprint). Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
+
+![me](https://user-images.githubusercontent.com/61385165/171072437-9d0adbe2-59fe-4fd7-b5df-d8596d98cd0d.jpg)
+#### Daily Scrum (Scrum Diario)
+- **Daily Scrum Meeting** (reunión periódica). Se produce diariamente, y tiene un máximo de 20 min. de duración. **Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado**, esto a fines de encontrar soluciones en la diaria.
+
+> 1. ¿Qué hiciste ayer?
+
+> 2. ¿Qué vas a hacer hoy?
+
+> 3. ¿Hay algo que te impida hacer tu trabajo?
+
+- No son reuniones de reporte de estado al Scrum Master
+-  Son compromisos frente a los demás miembros del equipo
