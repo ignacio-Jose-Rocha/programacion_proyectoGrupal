@@ -87,6 +87,20 @@ Hay muchas formas de realizar un sprint review. A continuación, se describen la
 7. Cierre.
 
 
+#### Sprint Retrospective Meeting
+-  **Sprint Retrospective Meeting** (reunión de retrospectiva del Sprint). 
+Se produce también al finalizar el Sprint y **tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint.** La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal, es la oportunidad para que el Equipo Scrum se analice a sí mismo y haga una propuesta de mejoras para que el desarrollo del siguiente Sprint sea más eficiente.
+
+Se debe realizar después del Sprint Review y antes del siguiente Sprint Planning. 
+
+El Scrum Master asiste como miembro del equipo y debe asegurarse que el evento se lleva a cabo y que los asistentes, tanto el Development Team como el Product Owner, entienden su propósito.
+
+- **¿Cuánto dura el Sprint Retrospective?**
+La duración máxima del Sprint Retrospective debe ser de 3 horas, y al igual que el Sprint Review, su tiempo es proporcional a la duración del Sprint; así que para que el Sprint Retrospective sea de 3 horas, debe ser un Sprint de 4 semanas o un mes, y así ir bajando proporcionalmente según las semanas del Sprint.
+
+![image](https://user-images.githubusercontent.com/60717025/171418594-793f42fe-c87e-4f0b-bc77-e871bb963992.png)
+
+
 ROLES- EQUIPO SCRUM
 
 La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un Scrum Master, un propietario del producto (Product Owner) y desarrolladores (Developers).
