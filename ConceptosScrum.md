@@ -49,6 +49,39 @@ permitir desperdicio en el proceso
 - No son reuniones de reporte de estado al Scrum Master
 -  Son compromisos frente a los demás miembros del equipo
 
+
+#### Sprint Review Meeting
+-  **Sprint Review Meeting** (reunión de revisión del Sprint). Se produce al finalizar el Sprint. **Tiene por objeto mostrar qué es lo que se ha completado y qué no.** A esta reunion asiste el equipo Scrum con el objetivo de ofrecer una demostración del prototipo del producto y determinar qué pendientes fueron terminados y cuáles no. 
+
+El propósito de la reunión es que el equipo muestre a los clientes / Product Owner y partes interesadas el trabajo que han realizado durante el sprint y lo comparen con el compromiso asumido al comienzo.
+
+Luego, el equipo pedirá a los clientes que revisen si el trabajo presentado (potencialmente enviable) cumple con los requerimientos. 
+
+A largo plazo, esto permite ahorrar tiempo y avanzar sobre seguro en las etapas venideras.
+
+- **¿Cuánto dura el Sprint Review?**
+
+Una sesión de sprint review puede durar hasta 4 horas en sprints de 4 semanas. La regla general es que la revisión no debe tomar más de una hora por semana de duración del sprint. 
+
+Duración recomendada:
+
+![image](https://user-images.githubusercontent.com/60717025/171310827-c17aff84-74a8-4434-b9c9-a411741a8beb.png)
+
+Lo más importante en un sprint review es que la reunión ofrezca tiempo para hacer preguntas, observaciones o proporcionar comentarios y sugerencias, y tener discusiones sobre cómo avanzar de la mejor manera.
+
+- **¿Cómo se hace un sprint review?**
+
+Hay muchas formas de realizar un sprint review. A continuación, se describen las actividades comunes dentro de una reunión de revisión típica:
+
+1. Inicio
+2. Se da la bienvenida a las partes interesadas
+3. El propietario del producto presenta la agenda de revisión.
+4. El equipo Scrum presentar los incrementos del productos (la demostración del producto que se ha implementado en el Sprint).
+5. Se reciben comentarios de las partes interesadas.
+6. Se presenta el product backlog a las partes interesadas para obtener comentarios de cara a los próximos sprints.
+7. Cierre.
+
+
 ROLES- EQUIPO SCRUM
 
 La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un Scrum Master, un propietario del producto (Product Owner) y desarrolladores (Developers).
