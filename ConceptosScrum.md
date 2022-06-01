@@ -18,6 +18,21 @@ El Product Backlog lo podemos definir como una lista ordenada de todos los reque
 •	**Increment:** El Increment es la suma de todos tus elementos del Product Backlog completados durante tus Sprint, en el cual te agregan un gran valor a tus incrementos de todos tu Sprint. No se debe considerar como un Increment a prototipos, módulos o submódulos ni a partes pendientes de pruebas. Ya que todos tus increment debe de estar en condiciones de utilizarse aun que el Product Owner decide o no liberarlo, por lo cual el Increment es un cuerpo de trabajo terminado que respalda el empirismo del Sprint.
 
 # Ceremonias
+¿Qué son las ceremonias?
+
+Las ceremonias de Scrum, a veces también llamadas "eventos Scrum", son eventos predefinidos con el fin de crear regularidad y minimizar la necesidad
+de reuniones no definidas en Scrum. Todos los eventos son bloques de tiempo (time-boxes), de
+tal modo que todos tienen una duración máxima. Una vez que comienza un Sprint, su duración
+es fija y no puede acortarse o alargarse. Los demás eventos pueden terminar siempre que se
+alcance el objetivo del evento, asegurando que se emplee una cantidad apropiada de tiempo sin
+permitir desperdicio en el proceso
+
+¿Cuáles son las ceremonias que se realizan a lo largo del proyecto?
+
+-Sprint Platnning Meeting.
+-Daily Scrum Meeting.
+-Sprint Review Meeting.
+-Sprint Retrospective Meeting.
 #### Sprint Planning
 -  **Sprint Planning Meeting** (reunión de planificación del sprint). Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 
@@ -33,10 +48,6 @@ El Product Backlog lo podemos definir como una lista ordenada de todos los reque
 
 - No son reuniones de reporte de estado al Scrum Master
 -  Son compromisos frente a los demás miembros del equipo
-
-#### Sprint Review Meeting
--  **Sprint Review Meeting** (reunión de revisión del Sprint). Se produce al finalizar el Sprint. **Tiene por objeto mostrar qué es lo que se ha completado y qué no.** Debe estar presente el Product Owner.
-
 
 ROLES- EQUIPO SCRUM
 
