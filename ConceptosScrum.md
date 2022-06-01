@@ -34,6 +34,10 @@ El Product Backlog lo podemos definir como una lista ordenada de todos los reque
 - No son reuniones de reporte de estado al Scrum Master
 -  Son compromisos frente a los demás miembros del equipo
 
+#### Sprint Review Meeting
+-  **Sprint Review Meeting** (reunión de revisión del Sprint). Se produce al finalizar el Sprint. **Tiene por objeto mostrar qué es lo que se ha completado y qué no.** Debe estar presente el Product Owner.
+
+
 ROLES- EQUIPO SCRUM
 
 La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un Scrum Master, un propietario del producto (Product Owner) y desarrolladores (Developers).
