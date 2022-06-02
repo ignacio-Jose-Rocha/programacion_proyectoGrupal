@@ -1,7 +1,27 @@
 ![Primer Proyecto Grupal](https://user-images.githubusercontent.com/60717025/171697458-7b09c463-a75a-4df9-a922-288f4d959cb3.png)
 <h1 align="center">CONCEPTOS SCRUM</h1>
 
+**Índice**
+* [Artefactos](#id1)
+    + [¿Qué  son los artefactos?](#id2)
+    + [Product Backlog](#id3)
+    + [Sprint Backlog](#id4)
+    + [Increment](#id5)
+* [Ceremonias](#id6)
+    + [Sprint Planning](#id7)
+    + [Daily Scrum](#id8)
+    + [Sprint Review](#id9)
+    + [Sprint Retrospective](#id10)
+* [Roles](#id11)
+    + [Developers](#id12)
+    + [Product Owner](#id13)
+    + [Scrum Master](#id14)
+***
+
+<div id='id1' />
+
 # Artefactos Scrum
+<div id='id2' />
 
 **¿Qué  son los artefactos?**
 
@@ -10,18 +30,25 @@ Dentro del marco de Scrum se les conoce a todos los elementos dentro de la gesti
 ![imagen](https://user-images.githubusercontent.com/106398144/171314872-b37787a2-9cd5-4e5a-83f4-c94c887146bf.png)
 
 
+<div id='id3' />
 
 •	**Product Backlog**  
 
 El Product Backlog lo podemos definir como una lista ordenada de todos los requerimientos que sean necesarios para la elaboración del proyecto. El rol de Product Owner es el encargado de poder realizar algún cambio a realizarse dentro del proyecto, incluyendo su contenido, disponibilidad y orientación. También el Product Backlog  ayudara mucho ya que es muy dinámico, pero puede estar en constante cambio para que se pueda identificar dentro del proyecto que es lo que se va necesitando o se va mejorando para poder generar más valor en entregas futuras. La Lista de Producto enumera todas las características, funcionalidades, requisitos, mejoras y correcciones que constituyen cambios a realizarse sobre el producto para entregas futuras. Los elementos de la Lista de Producto tienen como atributos la descripción, el orden, la estimación y el valor. Los elementos de La Lista de Producto muchas veces incluyen descripciones de las pruebas que demostrarán la completitud de tales elementos cuando estén “Terminados”. A medida que un producto es utilizado y se incrementa su valor y el mercado proporciona retroalimentación, la Lista de Producto se convierte en una lista más larga y exhaustiva. Los requisitos nunca dejan de cambiar así que la Lista de Producto es un artefacto vivo. Los cambios en los requisitos de negocio, las condiciones del mercado o la tecnología podrían causar cambios en la Lista de Producto.
 
+<div id='id4' />
+
 •	**Sprint Backlog (Lista de Pendientes del Sprint)**
 
 El Sprint Backlog lo podemos definir como el conjunto de elementos de tu Product Backlog seleccionados para el Sprint, y así mismo poder entregar un plan para que puedas entregar un incremento dentro de tu proyecto y puedas alcanzar el Sprint Goal (es una meta establecida para el sprint). El Sprint Backlog es una predicción echa por el Development Team acerca de que funcionalidad formará parte para el próximo incremento y de tal manera ver que trabajo es necesario para entregar esa funcionabilidad en un Incremento “DONE”.
 
+<div id='id5' />
+
 •	**Increment:** 
 
 El Increment es la suma de todos tus elementos del Product Backlog completados durante tus Sprint, en el cual te agregan un gran valor a tus incrementos de todos tu Sprint. No se debe considerar como un Increment a prototipos, módulos o submódulos ni a partes pendientes de pruebas. Ya que todos tus increment debe de estar en condiciones de utilizarse aun que el Product Owner decide o no liberarlo, por lo cual el Increment es un cuerpo de trabajo terminado que respalda el empirismo del Sprint.
+
+<div id='id6' />
 
 # Ceremonias
 ¿Qué son las ceremonias?
@@ -35,14 +62,20 @@ permitir desperdicio en el proceso
 
 ¿Cuáles son las ceremonias que se realizan a lo largo del proyecto?
 
--Sprint Platnning Meeting.
+-Sprint Planning Meeting.
 -Daily Scrum Meeting.
 -Sprint Review Meeting.
 -Sprint Retrospective Meeting.
+
+<div id='id7' />
+
 #### Sprint Planning
 -  **Sprint Planning Meeting** (reunión de planificación del sprint). Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 
 ![me](https://user-images.githubusercontent.com/61385165/171072437-9d0adbe2-59fe-4fd7-b5df-d8596d98cd0d.jpg)
+
+<div id='id8' />
+
 #### Daily Scrum (Scrum Diario)
 - **Daily Scrum Meeting** (reunión periódica). Se produce diariamente, y tiene un máximo de 20 min. de duración. **Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado**, esto a fines de encontrar soluciones en la diaria.
 
@@ -55,6 +88,7 @@ permitir desperdicio en el proceso
 - No son reuniones de reporte de estado al Scrum Master
 -  Son compromisos frente a los demás miembros del equipo
 
+<div id='id9' />
 
 #### Sprint Review Meeting
 -  **Sprint Review Meeting** (reunión de revisión del Sprint). Se produce al finalizar el Sprint. **Tiene por objeto mostrar qué es lo que se ha completado y qué no.** A esta reunion asiste el equipo Scrum con el objetivo de ofrecer una demostración del prototipo del producto y determinar qué pendientes fueron terminados y cuáles no. 
@@ -87,6 +121,7 @@ Hay muchas formas de realizar un sprint review. A continuación, se describen la
 6. Se presenta el product backlog a las partes interesadas para obtener comentarios de cara a los próximos sprints.
 7. Cierre.
 
+<div id='id10' />
 
 #### Sprint Retrospective Meeting
 -  **Sprint Retrospective Meeting** (reunión de retrospectiva del Sprint). 
@@ -101,21 +136,26 @@ La duración máxima del Sprint Retrospective debe ser de 3 horas, y al igual qu
 
 ![image](https://user-images.githubusercontent.com/60717025/171418594-793f42fe-c87e-4f0b-bc77-e871bb963992.png)
 
+<div id='id11' />
 
-ROLES- EQUIPO SCRUM
+# Roles- Equipo Scrum
 
 La unidad fundamental de Scrum es un equipo de personas (Scrum Team). Cada equipo consiste en un Scrum Master, un propietario del producto (Product Owner) y desarrolladores (Developers).
 
-EQUIPO
+#### Equipo
 El equipo es responsable de todas las actividades relacionadas al producto desde la colaboración con las partes interesadas, verificación, mantenimiento, experimentación, desarrollo y cualquier otra cosa que pueda ser requerida.
 
-DESARROLLADORES
+<div id='id12' />
+
+#### Desarrolladores
  Los desarrolladores son aquellos que producen cada uno de los incrementos de cada sprint y siempre son responsables de: 
 • Crear un plan para el Sprint, la pila de Sprint (Sprint Backlog). 
 • Asegurar la calidad mediante la adopción de una Definición de Terminado. 
 • Adaptar el Plan de Cada Día para conseguir el Objetivo del Sprint (Sprint Meta).
 
-PROPIETARIO DEL PRODUCTO
+<div id='id13' />
+
+#### Propietario del Producto
 El Propietario del Producto es el responsable de Gestionar Efectivamente la Pila de Producto (Product Backlog), lo que incluye:
 
  • Desarrollar y Comunicar el objetivo m del Producto (Meta del producto).
@@ -123,7 +163,9 @@ El Propietario del Producto es el responsable de Gestionar Efectivamente la Pila
  • Ordenar los artículos de la pila de producto siguiendo alguna prioridad.
  • Asegurar que la pila de producto sea transparente, visible y comprensible.
 
-SCRUM MASTER
+<div id='id14' />
+
+#### Scrum Master
 El Scrum Master es el encargado de asegurar que la metodología se lleve a cabo tal y como está definida. Esto se logra haciendo que cada persona del equipo entienda la teoría y práctica de la metodología. La persona con el rol de Scrum Master sirve al equipo de Scrum de varias formas: 
 
 • Orienta a los miembros del equipo en la autogestión y la multifuncionalidad.
