@@ -16,6 +16,7 @@
     + [Developers](#id12)
     + [Product Owner](#id13)
     + [Scrum Master](#id14)
+* [Autores](#id15)
 ***
 
 <div id='id1' />
@@ -183,3 +184,17 @@ Finalmente, también colabora con el resto de la organización con actividades c
 • Liderar, planear y entrenar a los miembros de la organización en lo que respecta a la adopción de Scrum. 
 • Planear y aconsejar cómo implementar Scrum dentro de la organización. 
 • Ayudar a los empleados a comprender y llevar a cabo la práctica de la metodología, mediante un enfoque empírico para trabajos complejos. 
+
+***
+
+<div id='id15' />
+
+## Autores:
+<h4 align="center"> Alumnos del aula 6 colaboradores en este repositorio</h4>
+
+<div align="center" />
+
+| [<img src="https://avatars.githubusercontent.com/u/54253691?v=4" width=115><br><sub>Ignacio Jose Rocha</sub>](https://github.com/ignacio19975) | [<img src="https://avatars.githubusercontent.com/u/102998556?v=4" width=115><br><sub>Juan Pablo Garcia</sub>](https://github.com/jotapegdev) | [<img src="https://avatars.githubusercontent.com/u/105822942?v=4" width=115><br><sub>Silvia Congilio</sub>](https://github.com/silviconi) | [<img src="https://avatars.githubusercontent.com/u/106398144?v=4" width=115><br><sub>Valeriya Lysikova</sub>](https://github.com/vlysi) | [<img src="https://avatars.githubusercontent.com/u/61385165?v=4" width=115><br><sub>Darío Barboso</sub>](https://github.com/dariovtx) 
+|:---: | :---: | :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/106396821?v=4" width=115><br><sub>Yanela Evelina Tabares</sub>](https://github.com/yanetabares27) | [<img src="https://avatars.githubusercontent.com/u/60717025?v=4" width=115><br><sub>Magali Maribel Garcia</sub>](https://github.com/magaligarcia) | [<img src="https://avatars.githubusercontent.com/u/73263498?v=4" width=115><br><sub>Juan Manuel García Vogel</sub>](https://github.com/juanmgarcia21) | [<img src="https://avatars.githubusercontent.com/u/87140796?v=4" width=115><br><sub>Juan Carranza</sub>](https://github.com/juancarranza21) | [<img src="https://avatars.githubusercontent.com/u/106414696?v=4" width=115><br><sub>Noelia Aguirre</sub>](https://github.com/noeaguirre)
+ 
