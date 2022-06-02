@@ -1,4 +1,5 @@
-# programacion_proyectoGrupal
+![Primer Proyecto Grupal](https://user-images.githubusercontent.com/60717025/171697458-7b09c463-a75a-4df9-a922-288f4d959cb3.png)
+<h1 align="center">CONCEPTOS SCRUM</h1>
 
 # Artefactos Scrum
 
