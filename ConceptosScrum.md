@@ -32,6 +32,7 @@ Dentro del marco de Scrum se les conoce a todos los elementos dentro de la gesti
 
 
 
+
 <div id='id3' />
 
 •	**Product Backlog**  
