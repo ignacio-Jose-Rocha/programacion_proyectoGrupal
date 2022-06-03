@@ -31,8 +31,6 @@ Dentro del marco de Scrum se les conoce a todos los elementos dentro de la gesti
 ![imagen](https://user-images.githubusercontent.com/106398144/171314872-b37787a2-9cd5-4e5a-83f4-c94c887146bf.png)
 
 
-
-
 <div id='id3' />
 
 •	**Product Backlog**  
