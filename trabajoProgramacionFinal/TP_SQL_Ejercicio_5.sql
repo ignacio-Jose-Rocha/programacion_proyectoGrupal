@@ -1,1 +1,0 @@
-SELECT Nombre_p, Nombre_d FROM Perro INNER JOIN Dueno ON Perro.DNI_Dueno=Dueno.DNI;
