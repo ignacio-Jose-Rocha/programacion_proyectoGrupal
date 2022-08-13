@@ -1,7 +1,7 @@
 ![Primer Proyecto Grupal](https://user-images.githubusercontent.com/60717025/171697458-7b09c463-a75a-4df9-a922-288f4d959cb3.png)
 <h1 align="center">CONCEPTOS SCRUM</h1>
 
-**Índice**
+** Índice de contenido **
 * [Artefactos](#id1)
     + [¿Qué  son los artefactos?](#id2)
     + [Product Backlog](#id3)
@@ -18,7 +18,6 @@
     + [Scrum Master](#id14)
 * [Autores](#id15)
 ***
-
 <div id='id1' />
 
 # Artefactos Scrum
@@ -29,6 +28,9 @@
 Dentro del marco de Scrum se les conoce a todos los elementos dentro de la gestión de transparencia como Artefactos de scrum, están pensados y diseñados para poder garantizar la transparencia dentro de tu equipo de scrum y que puedas evitar el riego de tener una mala comunicación, y un mal manejo de información en la entrega de tu proyecto scrum. Los Artefactos de Scrum tienen una gran importancia para poder coordinar un buen entendimiento de la información de tal manera que si no son trasparentes podrás tomar decisiones erróneas durante la aplicación de scrum.
 
 ![imagen](https://user-images.githubusercontent.com/106398144/171314872-b37787a2-9cd5-4e5a-83f4-c94c887146bf.png)
+
+
+
 
 
 <div id='id3' />
