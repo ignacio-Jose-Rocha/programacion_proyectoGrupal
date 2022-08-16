@@ -1,3 +1,14 @@
+# participantes
+# ignacio jose rocha ignac1997nacho@gmail.com
+# Magali Maribel Garcia magalimaribelgarcia@gmail.com
+# Dario Barboso dariovictorbarboso@hotmail.com
+# Yanela Evelina Tabares tabaresyane@gmail.com
+# Juan Manuel Garcia Vogel juanmgv21@gmail.com
+# Silvia Congilio sconiglio78@gmail.com
+# Juan Pablo Garcia juanpablogarcia796@gmail.com
+# Noelia Aguirre noeaguirre097@gmail.com
+# Valeriya Lysikova v.lysikova@gmail.com
+
 DROP DATABASE Peluqueria_canina;
 CREATE DATABASE Peluqueria_canina;
 
